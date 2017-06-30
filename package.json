@@ -1,21 +1,21 @@
 {
   "name": "restler",
-  "version": "3.4.0",
+  "version": "0.0.1",
   "description": "An HTTP client library for node.js",
   "contributors": [
     {
-      "name": "Dan Webb",
-      "email": "dan@danwebb.net"
+      "name": "damo",
+      "email": "mingkang1993@qq.com"
     },
     {
       "name": "Ben Marvell",
       "email": "ben@marvell-consulting.com"
     }
   ],
-  "homepage": "https://github.com/danwrong/restler",
+  "homepage": "https://github.com/mingkang1993/restler",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danwrong/restler.git"
+    "url": "httpshttps://github.com/mingkang1993/restler.git"
   },
   "directories": {
     "lib": "./lib"
