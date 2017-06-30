@@ -1,5 +1,3 @@
-(C) Dan Webb (dan@danwebb.net/@danwrong) 2011, Licensed under the MIT-LICENSE
-
 An HTTP client library for node.js.  Hides most of the complexity of creating and using http.Client.
 
 
